@@ -15,3 +15,8 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with TheReposterminator.  If not, see <https://www.gnu.org/licenses/>.
 """
+
+__title__ = 'TheReposterminator'
+__author__ = 'nickofolas'
+__license__ = 'GNU Affero General Public License Version 3'
+__copyright__ = 'Copyright (C) 2020 nickofolas'
