@@ -23,7 +23,7 @@ If you don't want TheReposterminator helping out anymore, it's as simple as remo
 # Userscript usage
 TheReposterminator also has a userscript that can be used with extensions such as Greasemonkey and Tampermonkey. It adds a new button to flagged posts that launches a small popout that shows the chart provided by TheReposterminator's comment, saving the hassle of opening the comments section for each post.
 
-The userscript can be installed by clicking [here](https://github.com/reola01/TheReposterminator/raw/master/popout-viewer.user.js) with a userscript engine (ie Grease/Tampermonkey) installed on your browser.
+The userscript can be installed by clicking [here](https://github.com/nickofolas/TheReposterminator/raw/master/popout-viewer.user.js) with a userscript engine (ie Grease/Tampermonkey) installed on your browser.
 
 # What if I want to run my own instance?
 I'd prefer that you don't run an instance of the bot, but I can't stop you, so here's a quick guide.
