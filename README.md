@@ -2,7 +2,7 @@
 
 > TheReposterminator now has a userscript to make working with it even easer! [See here for more](#userscript-usage)
 
-> [Install it here!](https://github.com/reola01/TheReposterminator/raw/master/popout-viewer.user.js)
+> [Install it here!](https://github.com/nickofolas/TheReposterminator/raw/master/popout-viewer.user.js)
 
 TheReposterminator is a reddit bot made to detect reposts, and help make moderating a whole lot easier.
 * Indexed submission media as soon as it joins a subreddit
